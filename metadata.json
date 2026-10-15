@@ -1,0 +1,7 @@
+{
+  "name": "Sanskriti - Internal Complaints Committee (ICC) & POSH Assistant",
+  "description": "Confidential, trauma-informed AI advisory and grievance assistance portal for employees and Internal Complaints Committees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
